@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1082601360155",
+    "firebase_url": "https://social-chan.firebaseio.com",
+    "project_id": "social-chan",
+    "storage_bucket": "social-chan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082601360155:android:c0abe7a4e95ff970",
+        "android_client_info": {
+          "package_name": "com.d8vjork.socialchan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082601360155-jh7gtmbs6ddo9hk2j2mm3oi3ldburibp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsIYq83v4B3E7r8MtXwY8nLkiZ57artL4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
